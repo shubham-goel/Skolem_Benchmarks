@@ -1,0 +1,27 @@
+[1;37mceiling128                    :[0m i/o =  383/    1  lat =    0  and =   2289  lev =388
+[1;37mdecomposition128              :[0m i/o =  384/    1  lat =    0  and =   1402  lev =385
+[1;37mequalization128               :[0m i/o =  512/    1  lat =    0  and =   2293  lev =385
+[1;37mequalization32                :[0m i/o =  128/    1  lat =    0  and =    565  lev = 97
+[1;37mfloor128                      :[0m i/o =  383/    1  lat =    0  and =   1396  lev =384
+[1;37mintermediate128               :[0m i/o =  384/    1  lat =    0  and =   1531  lev =257
+[1;37mmax128                        :[0m i/o =  384/    1  lat =    0  and =   1533  lev =257
+[1;37mmin128                        :[0m i/o =  384/    1  lat =    0  and =   1533  lev =257
+[1;37msubtraction128                :[0m i/o =  384/    1  lat =    0  and =   1402  lev =385
+[1;37mceiling32                     :[0m i/o =   95/    1  lat =    0  and =    561  lev =100
+[1;37mdecomposition32               :[0m i/o =   96/    1  lat =    0  and =    346  lev = 97
+[1;37mequalization32                :[0m i/o =  128/    1  lat =    0  and =    565  lev = 97
+[1;37mfactorization32               :[0m i/o =   96/    1  lat =    0  and =   4037  lev =215
+[1;37mfloor32                       :[0m i/o =   95/    1  lat =    0  and =    340  lev = 96
+[1;37mintermediate32                :[0m i/o =   96/    1  lat =    0  and =    379  lev = 65
+[1;37mmax32                         :[0m i/o =   96/    1  lat =    0  and =    381  lev = 65
+[1;37mmin32                         :[0m i/o =   96/    1  lat =    0  and =    381  lev = 65
+[1;37msubtraction32                 :[0m i/o =   96/    1  lat =    0  and =    346  lev = 97
+[1;37mceiling512                    :[0m i/o = 1535/    1  lat =    0  and =   9201  lev =1540
+[1;37mdecomposition512              :[0m i/o = 1536/    1  lat =    0  and =   5626  lev =1537
+[1;37mequalization128               :[0m i/o =  512/    1  lat =    0  and =   2293  lev =385
+[1;37mequalization512               :[0m i/o = 2048/    1  lat =    0  and =   9205  lev =1537
+[1;37mfloor512                      :[0m i/o = 1535/    1  lat =    0  and =   5620  lev =1536
+[1;37mintermediate512               :[0m i/o = 1536/    1  lat =    0  and =   6139  lev =1025
+[1;37mmax512                        :[0m i/o = 1536/    1  lat =    0  and =   6141  lev =1025
+[1;37mmin512                        :[0m i/o = 1536/    1  lat =    0  and =   6141  lev =1025
+[1;37msubtraction512                :[0m i/o = 1536/    1  lat =    0  and =   5626  lev =1537

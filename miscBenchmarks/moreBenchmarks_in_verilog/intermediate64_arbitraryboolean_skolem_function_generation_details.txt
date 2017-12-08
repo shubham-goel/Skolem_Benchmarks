@@ -1,0 +1,12 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/intermediate64.aig
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 955
+|X| = 64
+|X+Y| = 192

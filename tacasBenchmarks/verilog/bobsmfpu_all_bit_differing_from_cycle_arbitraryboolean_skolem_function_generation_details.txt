@@ -1,0 +1,39 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/bobsmfpu_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 35653
+|X| = 117
+|X+Y| = 1023
+
+Time-out inside the function AIGBasedSkolem::Skolem
+
+
+
+number of cegarskolem calls = 0
+number of monoskolem calls = 430
+number of find_skolem_disjunction calls = 19128
+number of find_skolem_conjunction calls = 19065
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 0 millisecond
+
+total-time-without-size-computation-time = 3600000 milliseconds
+
+time in monoskolem calls = 325
+time in find_skolem_disjunction calls = 17889
+time in find_skolem_conjunction calls = 35644
+
+total time in true sat calls inside cegar = 0
+total time in false sat calls inside cegar = 0
+total time in sat calls inside cegar = 0
+total time in simulation to replace sat inside cegar in milking counterexamples = 0
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 
+
+skolem-function-sizes-after-reverse-substitution = 

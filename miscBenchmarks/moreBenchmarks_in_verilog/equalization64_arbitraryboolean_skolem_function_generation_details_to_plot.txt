@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/equalization64.aig	prolient	arbitrary_boolean_combinations	1397	128	256	externally-supplied	

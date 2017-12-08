@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/factorization16.v	prolient	arbitrary_boolean_combinations	534	16	32	externally-supplied	-	-	-	-	-	-	4.856522	1275	0	64	460	459	460	>3600000	-	-	-	-	-	-

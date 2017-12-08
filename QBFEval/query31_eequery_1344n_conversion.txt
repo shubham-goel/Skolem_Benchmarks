@@ -1,0 +1,17 @@
+BaseName:     query31_eequery_1344n
+numVars:       891
+NumClauses:   1973
+varsX.size(): 66
+varsY.size(): 825
+maxVar:       891
+Finished readQdimacsFile
+DEPConst -891
+Finished findLitToProp
+DEPConst -487
+DEPConst -890
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 3
+numNonTseitin:   1970

@@ -1,0 +1,43 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobsynthetic2_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 9296
+|X| = 200
+|X+Y| = 400
+
+Time-out inside function AIGBasedSkolem::factorizedSkolemFunctionGenerator during CEGAR iteration 11
+
+Time-out inside the function AIGBasedSkolem::factorizedSkolemFunctionGenerator
+
+Time-out inside the function AIGBasedSkolem::Skolem
+
+
+
+number of cegarskolem calls = 1110
+number of monoskolem calls = 800
+number of find_skolem_disjunction calls = 8166
+number of find_skolem_conjunction calls = 8158
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 0 millisecond
+
+total-time-without-size-computation-time = 3600000 milliseconds
+
+time in monoskolem calls = 1347
+time in find_skolem_disjunction calls = 16922
+time in find_skolem_conjunction calls = 1585956
+
+total time in true sat calls inside cegar = 698087
+total time in false sat calls inside cegar = 239247
+total time in sat calls inside cegar = 937334
+total time in simulation to replace sat inside cegar in milking counterexamples = 309773
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 
+
+skolem-function-sizes-after-reverse-substitution = 

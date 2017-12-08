@@ -1,0 +1,15 @@
+BaseName:     reachqu_query42_1344n
+numVars:       8987
+NumClauses:   42390
+varsX.size(): 180
+varsY.size(): 8807
+maxVar:       8987
+Finished readQdimacsFile
+DEPConst -8987
+Finished findLitToProp
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 1
+numNonTseitin:   42389

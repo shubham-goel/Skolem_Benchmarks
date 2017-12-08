@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/neclaftp2002_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	23662	32	4305	externally-supplied	20735.406250	23572	20367	25036.875000	32981	20532	0.000000	0	0	8451	15532	16163	3167	1244420	16	2251	31653	5565	11189	2539

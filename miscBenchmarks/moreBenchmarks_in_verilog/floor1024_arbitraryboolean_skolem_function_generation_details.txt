@@ -1,0 +1,39 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/floor1024.aig
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 14323
+|X| = 1023
+|X+Y| = 3071
+
+Time-out inside the function AIGBasedSkolem::Skolem
+
+
+
+number of cegarskolem calls = 0
+number of monoskolem calls = 4093
+number of find_skolem_disjunction calls = 4390
+number of find_skolem_conjunction calls = 4390
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 0 millisecond
+
+total-time-without-size-computation-time = 3600000 milliseconds
+
+time in monoskolem calls = 26406
+time in find_skolem_disjunction calls = 120224
+time in find_skolem_conjunction calls = 302826
+
+total time in true sat calls inside cegar = 0
+total time in false sat calls inside cegar = 0
+total time in sat calls inside cegar = 0
+total time in simulation to replace sat inside cegar in milking counterexamples = 0
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 
+
+skolem-function-sizes-after-reverse-substitution = 

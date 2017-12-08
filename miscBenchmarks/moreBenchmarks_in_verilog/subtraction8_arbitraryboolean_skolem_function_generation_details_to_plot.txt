@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/subtraction8.aig	prolient	arbitrary_boolean_combinations	106	8	24	externally-supplied	126.500000	289	81	563.500000	691	289	0.500000	11	0	48	74	59	74	953	12	4	790	4	527	1

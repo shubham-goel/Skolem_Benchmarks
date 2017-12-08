@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/decomposition64.aig
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 890
+|X| = 128
+|X+Y| = 192
+
+
+
+number of cegarskolem calls = 634
+number of monoskolem calls = 384
+number of find_skolem_disjunction calls = 507
+number of find_skolem_conjunction calls = 634
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 491 millisecond
+
+total-time-without-size-computation-time = 47734 milliseconds
+
+time in monoskolem calls = 299
+time in find_skolem_disjunction calls = 703
+time in find_skolem_conjunction calls = 29605
+
+total time in true sat calls inside cegar = 73
+total time in false sat calls inside cegar = 853
+total time in sat calls inside cegar = 926
+total time in simulation to replace sat inside cegar in milking counterexamples = 270
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 886, 876, 872, 862, 858, 848, 844, 834, 830, 820, 816, 806, 802, 792, 788, 778, 774, 764, 760, 750, 746, 736, 732, 722, 718, 708, 704, 694, 690, 680, 676, 666, 662, 652, 648, 638, 634, 624, 620, 610, 606, 596, 592, 582, 578, 568, 564, 554, 550, 540, 536, 526, 522, 512, 508, 498, 494, 484, 480, 470, 466, 456, 452, 442, 438, 428, 424, 414, 410, 400, 396, 386, 382, 372, 368, 358, 354, 344, 340, 330, 326, 316, 312, 302, 298, 288, 284, 274, 270, 260, 256, 246, 242, 232, 228, 218, 214, 204, 200, 190, 186, 176, 172, 162, 158, 148, 144, 134, 130, 120, 116, 106, 102, 92, 88, 78, 74, 64, 60, 50, 46, 36, 32, 22, 18, 9, 5, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 1180, 1170, 1160, 1151, 1141, 1132, 1122, 1113, 1103, 1094, 1084, 1075, 1065, 1056, 1046, 1037, 1027, 1018, 1008, 999, 989, 980, 970, 961, 951, 942, 932, 923, 913, 904, 894, 885, 875, 866, 856, 847, 837, 828, 818, 809, 799, 790, 780, 771, 761, 752, 742, 733, 723, 714, 704, 695, 685, 676, 666, 657, 647, 638, 628, 619, 609, 600, 590, 581, 571, 562, 552, 543, 533, 524, 514, 505, 495, 486, 476, 467, 457, 448, 438, 429, 419, 410, 400, 391, 381, 372, 362, 353, 343, 334, 324, 315, 305, 296, 286, 277, 267, 258, 248, 239, 229, 220, 210, 201, 191, 182, 172, 163, 153, 144, 134, 125, 115, 106, 96, 87, 77, 68, 58, 49, 39, 30, 20, 11, 5, 1, 1, 1, 

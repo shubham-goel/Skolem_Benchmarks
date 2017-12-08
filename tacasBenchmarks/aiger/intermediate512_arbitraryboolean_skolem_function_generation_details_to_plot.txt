@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/intermediate512.aig	prolient	arbitrary_boolean_combinations	7675	512	1536	externally-supplied	

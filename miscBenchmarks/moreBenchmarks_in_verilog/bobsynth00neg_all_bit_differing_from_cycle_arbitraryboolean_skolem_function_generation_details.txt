@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobsynth00neg_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 15556
+|X| = 98
+|X+Y| = 3007
+
+
+
+number of cegarskolem calls = 2220
+number of monoskolem calls = 6013
+number of find_skolem_disjunction calls = 10105
+number of find_skolem_conjunction calls = 9662
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 61321 millisecond
+
+total-time-without-size-computation-time = 2132150 milliseconds
+
+time in monoskolem calls = 4987
+time in find_skolem_disjunction calls = 10390
+time in find_skolem_conjunction calls = 192099
+
+total time in true sat calls inside cegar = 30965
+total time in false sat calls inside cegar = 2000
+total time in sat calls inside cegar = 32965
+total time in simulation to replace sat inside cegar in milking counterexamples = 112783
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 15552, 15259, 15255, 15219, 15219, 15219, 15219, 15215, 15199, 15195, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15194, 15192, 15179, 15201, 15214, 15210, 15243, 15243, 15218, 15235, 15177, 15177, 15375, 15620, 15807, 16351, 16973, 18562, 18787, 23664, 20669, 21991, 15074, 18680, 15044, 15176, 15152, 15332, 15246, 21825, 19770, 1, 1, 1, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 66851, 66575, 66530, 66426, 66426, 66426, 66426, 66381, 66329, 66284, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66279, 66192, 66104, 65948, 65832, 65571, 65387, 65169, 64946, 64727, 64373, 64373, 64086, 63706, 63095, 62319, 61202, 59432, 56091, 52495, 44074, 40805, 34350, 33835, 30097, 29357, 28881, 28217, 27549, 26230, 19263, 1, 1, 1, 1, 

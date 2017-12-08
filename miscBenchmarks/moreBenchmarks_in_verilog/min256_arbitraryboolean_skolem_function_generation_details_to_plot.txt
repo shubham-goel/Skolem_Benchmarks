@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/min256.aig	prolient	arbitrary_boolean_combinations	3329	256	768	externally-supplied	-	-	-	-	-	-	0.405813	726	0	1536	1789	1535	1789	>3600000	-	-	-	-	-	-

@@ -1,0 +1,15 @@
+#! /bin/sh
+
+export PATH=${HOME}/bin:$PATH
+
+DIR=${HOME}/Benchmarks/tacasBenchmarks/disjunctive_decomposition/in_verilog
+
+for i in ${DIR}/*.v
+do
+m=`basename $i .v`
+
+outFile=$m.aig
+
+$HOME/abc/abc -c "read $i; strash; write $outFile"
+done
+

@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/pdtpmssfeistel_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 7387
+|X| = 68
+|X+Y| = 823
+
+
+
+number of cegarskolem calls = 2498
+number of monoskolem calls = 1646
+number of find_skolem_disjunction calls = 4978
+number of find_skolem_conjunction calls = 4865
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 14846 millisecond
+
+total-time-without-size-computation-time = 280407 milliseconds
+
+time in monoskolem calls = 777
+time in find_skolem_disjunction calls = 3337
+time in find_skolem_conjunction calls = 24985
+
+total time in true sat calls inside cegar = 5
+total time in false sat calls inside cegar = 90
+total time in sat calls inside cegar = 95
+total time in simulation to replace sat inside cegar in milking counterexamples = 23
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 7313, 7310, 7304, 7297, 7290, 7286, 7277, 7272, 7262, 7254, 7243, 7237, 7231, 7228, 7223, 7216, 7211, 7201, 7197, 7191, 7187, 7182, 7178, 7170, 7168, 7159, 7149, 7142, 7136, 7132, 7125, 7122, 7113, 7108, 7100, 7089, 7079, 7070, 7066, 7055, 7047, 7036, 7029, 7018, 7011, 6999, 6989, 6981, 6971, 6954, 6948, 6939, 6928, 6918, 6908, 6898, 6889, 6878, 6864, 6859, 6849, 6839, 6829, 6814, 6769, 6398, 6512, 5359, 
+
+skolem-function-sizes-after-reverse-substitution = 27834, 27610, 27404, 27178, 26968, 26739, 26515, 26279, 26043, 25820, 25581, 25349, 25115, 24883, 24648, 24407, 24172, 23926, 23694, 23467, 23227, 22990, 22748, 22516, 22279, 22025, 21776, 21535, 21297, 21062, 20819, 20576, 20330, 20083, 19831, 19575, 19327, 19083, 18826, 18595, 18335, 18080, 17832, 17577, 17320, 17064, 16823, 16565, 16306, 16041, 15791, 15545, 15288, 15029, 14758, 14507, 14244, 13984, 13726, 13481, 13218, 12953, 12686, 12421, 10900, 9518, 8522, 5359, 

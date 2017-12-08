@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/decomposition128.aig	prolient	arbitrary_boolean_combinations	1786	256	384	externally-supplied	888.035156	1782	1	1184.238281	2396	1	0.197802	2	0	768	1274	1019	1274	254456	9	1405	94527	2498	83445	4468

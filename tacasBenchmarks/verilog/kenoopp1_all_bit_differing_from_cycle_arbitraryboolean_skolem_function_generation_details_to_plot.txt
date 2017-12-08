@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/kenoopp1_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	554	49	100	externally-supplied	12.204082	550	1	6.346939	263	1	0.015038	4	0	200	369	411	266	5278	11	59	2863	214	1607	3

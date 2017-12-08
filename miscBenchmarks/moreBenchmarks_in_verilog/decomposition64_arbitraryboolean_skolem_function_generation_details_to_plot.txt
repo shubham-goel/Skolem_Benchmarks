@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/decomposition64.aig	prolient	arbitrary_boolean_combinations	890	128	192	externally-supplied	440.070312	886	1	576.476562	1180	1	0.195584	2	0	384	634	507	634	47734	9	299	29605	703	25420	491

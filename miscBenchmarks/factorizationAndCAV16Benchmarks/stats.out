@@ -1,0 +1,63 @@
+[1;37mfactorization10_simplified    :[0m i/o =   20/    1  lat =    0  and =    193  lev = 31
+[1;37mfactorization12_simplified    :[0m i/o =   24/    1  lat =    0  and =    280  lev = 39
+[1;37mfactorization14_simplified    :[0m i/o =   28/    1  lat =    0  and =    383  lev = 48
+[1;37mfactorization16_simplified    :[0m i/o =   32/    1  lat =    0  and =    502  lev = 56
+[1;37mfactorization18_simplified    :[0m i/o =   36/    1  lat =    0  and =    637  lev = 64
+[1;37mfactorization20_simplified    :[0m i/o =   40/    1  lat =    0  and =    788  lev = 72
+[1;37mfactorization22_simplified    :[0m i/o =   44/    1  lat =    0  and =    955  lev = 80
+[1;37mfactorization24_simplified    :[0m i/o =   48/    1  lat =    0  and =   1138  lev = 88
+[1;37mfactorization26_simplified    :[0m i/o =   52/    1  lat =    0  and =   1337  lev = 96
+[1;37mfactorization28_simplified    :[0m i/o =   56/    1  lat =    0  and =   1552  lev =104
+[1;37mfactorization30_simplified    :[0m i/o =   60/    1  lat =    0  and =   1783  lev =112
+[1;37mfactorization32_simplified    :[0m i/o =   64/    1  lat =    0  and =   2030  lev =120
+[1;37mfactorization8_simplified     :[0m i/o =   16/    1  lat =    0  and =    122  lev = 23
+[1;37mceiling1024                   :[0m i/o = 3071/    1  lat =    0  and =  18417  lev =3076
+[1;37mceiling128                    :[0m i/o =  383/    1  lat =    0  and =   2289  lev =388
+[1;37mceiling256                    :[0m i/o =  767/    1  lat =    0  and =   4593  lev =772
+[1;37mceiling32                     :[0m i/o =   95/    1  lat =    0  and =    561  lev =100
+[1;37mceiling512                    :[0m i/o = 1535/    1  lat =    0  and =   9201  lev =1540
+[1;37mceiling64                     :[0m i/o =  191/    1  lat =    0  and =   1137  lev =196
+[1;37mdecomposition1024             :[0m i/o = 3072/    1  lat =    0  and =  11258  lev =3073
+[1;37mdecomposition128              :[0m i/o =  384/    1  lat =    0  and =   1402  lev =385
+[1;37mdecomposition256              :[0m i/o =  768/    1  lat =    0  and =   2810  lev =769
+[1;37mdecomposition32               :[0m i/o =   96/    1  lat =    0  and =    346  lev = 97
+[1;37mdecomposition512              :[0m i/o = 1536/    1  lat =    0  and =   5626  lev =1537
+[1;37mdecomposition64               :[0m i/o =  192/    1  lat =    0  and =    698  lev =193
+[1;37mequalization1024              :[0m i/o = 4096/    1  lat =    0  and =  18421  lev =3073
+[1;37mequalization128               :[0m i/o =  512/    1  lat =    0  and =   2293  lev =385
+[1;37mequalization256               :[0m i/o = 1024/    1  lat =    0  and =   4597  lev =769
+[1;37mequalization32                :[0m i/o =  128/    1  lat =    0  and =    565  lev = 97
+[1;37mequalization512               :[0m i/o = 2048/    1  lat =    0  and =   9205  lev =1537
+[1;37mequalization64                :[0m i/o =  256/    1  lat =    0  and =   1141  lev =193
+[1;37mfactorization32               :[0m i/o =   96/    1  lat =    0  and =   4037  lev =215
+[1;37mfloor1024                     :[0m i/o = 3071/    1  lat =    0  and =  11252  lev =3072
+[1;37mfloor128                      :[0m i/o =  383/    1  lat =    0  and =   1396  lev =384
+[1;37mfloor256                      :[0m i/o =  767/    1  lat =    0  and =   2804  lev =768
+[1;37mfloor32                       :[0m i/o =   95/    1  lat =    0  and =    340  lev = 96
+[1;37mfloor512                      :[0m i/o = 1535/    1  lat =    0  and =   5620  lev =1536
+[1;37mfloor64                       :[0m i/o =  191/    1  lat =    0  and =    692  lev =192
+[1;37mintermediate1024              :[0m i/o = 3072/    1  lat =    0  and =  12283  lev =2049
+[1;37mintermediate128               :[0m i/o =  384/    1  lat =    0  and =   1531  lev =257
+[1;37mintermediate256               :[0m i/o =  768/    1  lat =    0  and =   3067  lev =513
+[1;37mintermediate32                :[0m i/o =   96/    1  lat =    0  and =    379  lev = 65
+[1;37mintermediate512               :[0m i/o = 1536/    1  lat =    0  and =   6139  lev =1025
+[1;37mintermediate64                :[0m i/o =  192/    1  lat =    0  and =    763  lev =129
+[1;37mmax1024                       :[0m i/o = 3072/    1  lat =    0  and =  12285  lev =2049
+[1;37mmax128                        :[0m i/o =  384/    1  lat =    0  and =   1533  lev =257
+[1;37mmax256                        :[0m i/o =  768/    1  lat =    0  and =   3069  lev =513
+[1;37mmax32                         :[0m i/o =   96/    1  lat =    0  and =    381  lev = 65
+[1;37mmax512                        :[0m i/o = 1536/    1  lat =    0  and =   6141  lev =1025
+[1;37mmax64                         :[0m i/o =  192/    1  lat =    0  and =    765  lev =129
+[1;37mmin1024                       :[0m i/o = 3072/    1  lat =    0  and =  12285  lev =2049
+[1;37mmin128                        :[0m i/o =  384/    1  lat =    0  and =   1533  lev =257
+[1;37mmin256                        :[0m i/o =  768/    1  lat =    0  and =   3069  lev =513
+[1;37mmin32                         :[0m i/o =   96/    1  lat =    0  and =    381  lev = 65
+[1;37mmin512                        :[0m i/o = 1536/    1  lat =    0  and =   6141  lev =1025
+[1;37mmin64                         :[0m i/o =  192/    1  lat =    0  and =    765  lev =129
+[1;37msubtraction1024               :[0m i/o = 3072/    1  lat =    0  and =  11258  lev =3073
+[1;37msubtraction128                :[0m i/o =  384/    1  lat =    0  and =   1402  lev =385
+[1;37msubtraction256                :[0m i/o =  768/    1  lat =    0  and =   2810  lev =769
+[1;37msubtraction32                 :[0m i/o =   96/    1  lat =    0  and =    346  lev = 97
+[1;37msubtraction512                :[0m i/o = 1536/    1  lat =    0  and =   5626  lev =1537
+[1;37msubtraction64                 :[0m i/o =  192/    1  lat =    0  and =    698  lev =193
+[1;37msubtraction8                  :[0m i/o =   24/    1  lat =    0  and =     82  lev = 25

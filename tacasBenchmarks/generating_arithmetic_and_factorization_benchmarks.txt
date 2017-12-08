@@ -1,0 +1,36 @@
+For generating the arithmetic and factorization benchmarks, 
+we first expressed the problem instance in SMTLIB. We then 
+used Boolector-2.1.1 to bit-blast the problem instance and 
+express it as an .aig file. 
+
+For example, to generate floor32.aig, we first created floor32.smt 
+as follows. 
+
+(benchmark floor32
+:logic QF_BV
+:extrafuns ((i BitVec[32]))
+:extrafuns ((a BitVec[32]))
+:extrafuns ((b BitVec[32]))
+
+:formula (or (= (bvmul bv2[32] i) (bvadd a b)) (= (bvadd (bvmul bv2[32] i) bv1[32]) (bvadd a b)) )
+
+; Here we have  ((2i = a+b) \or (2i+1 = a+b)), where a,b are 32-bit input variables and
+; i is the 32-bit output variable
+
+)
+
+We then used Boolector as, 
+
+boolector --rewrite-level=0 --rewrite-level-pbr=0 -no-es -no-el -no-ml -no-xl -no-sp  -dam -dai floor32.smt -o floor32.aig 
+
+to bit-blast this and express this in .aig format.
+
+To convert the benchmarks in .aig format to .cnf and .qdimacs formats, 
+we first used the standard Tsietin encoding to derive the CNF. 
+The final .cnf and .vars files were generated from the CNF following 
+the instructions in cs.rice.edu/~lm30/RSynth. 
+The .qdimacs files were generated from the CNF by universally 
+quantifying the input variables and existentially quantifying the 
+output variables and the Tsietin variables. 
+
+

@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/neclaftp3002_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 7132
+|X| = 0
+|X+Y| = 1354
+
+
+
+number of cegarskolem calls = 0
+number of monoskolem calls = 2708
+number of find_skolem_disjunction calls = 5766
+number of find_skolem_conjunction calls = 5751
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 0 millisecond
+
+total-time-without-size-computation-time = 5023 milliseconds
+
+time in monoskolem calls = 58
+time in find_skolem_disjunction calls = 191
+time in find_skolem_conjunction calls = 923
+
+total time in true sat calls inside cegar = 0
+total time in false sat calls inside cegar = 0
+total time in sat calls inside cegar = 0
+total time in simulation to replace sat inside cegar in milking counterexamples = 0
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 
+
+skolem-function-sizes-after-reverse-substitution = 

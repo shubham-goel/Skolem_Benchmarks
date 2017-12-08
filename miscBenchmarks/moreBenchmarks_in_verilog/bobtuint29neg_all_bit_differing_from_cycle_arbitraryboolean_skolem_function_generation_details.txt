@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobtuint29neg_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 2992
+|X| = 205
+|X+Y| = 417
+
+
+
+number of cegarskolem calls = 1302
+number of monoskolem calls = 833
+number of find_skolem_disjunction calls = 2218
+number of find_skolem_conjunction calls = 2027
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 1549 millisecond
+
+total-time-without-size-computation-time = 253565 milliseconds
+
+time in monoskolem calls = 1321
+time in find_skolem_disjunction calls = 4769
+time in find_skolem_conjunction calls = 24325
+
+total time in true sat calls inside cegar = 18
+total time in false sat calls inside cegar = 436
+total time in sat calls inside cegar = 454
+total time in simulation to replace sat inside cegar in milking counterexamples = 74
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 2989, 2988, 2985, 2983, 2982, 2979, 2978, 2977, 2978, 2977, 2977, 2976, 2968, 2967, 2963, 2964, 2964, 2961, 2961, 2962, 2960, 2958, 2956, 2953, 2952, 2950, 2945, 2945, 2938, 2946, 2942, 2943, 2938, 2933, 2930, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 2790, 2781, 2770, 2759, 2740, 2717, 2697, 2673, 2650, 2621, 2589, 2568, 2530, 2499, 2469, 2442, 2410, 2376, 2342, 2315, 2287, 2258, 2227, 2198, 2164, 2140, 2108, 2077, 2046, 2008, 1968, 1933, 1899, 1864, 1829, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 

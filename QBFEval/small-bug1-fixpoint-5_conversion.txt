@@ -1,0 +1,70 @@
+BaseName:     small-bug1-fixpoint-5
+numVars:       87
+NumClauses:   204
+varsX.size(): 17
+varsY.size(): 69
+maxVar:       86
+Setting numVars = 86
+Finished readQdimacsFile
+Finished findLitToProp
+Finished propagateLiteral
+DEP86 = AND(69, 85)
+DEP85 = OR(72, 75, 78, 81, 84)
+DEP84 = AND(-82, -83)
+DEP81 = AND(-79, -80)
+DEP78 = AND(-76, -77)
+DEP75 = AND(-73, -74)
+DEP72 = AND(-70, -71)
+DEP69 = AND(-18, -19, -20, -21, -22, -56, -60, -64, -68)
+DEP67 = OR(31, 66)
+DEP66 = AND(-31, 65)
+DEP65 = AND(-21, 28)
+DEP63 = OR(29, 62)
+DEP62 = AND(-29, 61)
+DEP61 = AND(-20, 26)
+DEP59 = OR(27, 58)
+DEP58 = AND(-27, 57)
+DEP57 = AND(-19, 23)
+DEP55 = OR(24, 54)
+DEP54 = AND(-24, 53)
+DEP53 = AND(-18, 25)
+DEP52 = AND(-1, -2, -3, -4, -5, -6, -35, -39, -43, -47, -51)
+DEP50 = OR(17, 49)
+DEP49 = AND(-17, 48)
+DEP48 = AND(-5, 14)
+DEP46 = OR(15, 45)
+DEP45 = AND(-15, 44)
+DEP44 = AND(-4, 12)
+DEP42 = OR(13, 41)
+DEP41 = AND(-13, 40)
+DEP40 = AND(-3, 10)
+DEP38 = OR(11, 37)
+DEP37 = AND(-11, 36)
+DEP36 = AND(-2, 7)
+DEP34 = OR(8, 33)
+DEP33 = AND(-8, 32)
+DEP32 = AND(-1, 9)
+DEP83 = XOR(30, 16)
+DEP82 = XOR(22, 6)
+DEP80 = XOR(28, 16)
+DEP79 = XOR(21, 6)
+DEP77 = XOR(26, 16)
+DEP76 = XOR(20, 6)
+DEP74 = XOR(23, 16)
+DEP73 = XOR(19, 6)
+DEP71 = XOR(25, 16)
+DEP70 = XOR(18, 6)
+DEP68 = XOR(67, 30)
+DEP64 = XOR(63, 28)
+DEP60 = XOR(59, 26)
+DEP56 = XOR(55, 23)
+DEP51 = XOR(50, 16)
+DEP47 = XOR(46, 14)
+DEP43 = XOR(42, 12)
+DEP39 = XOR(38, 10)
+DEP35 = XOR(34, 7)
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 0
+numNonTseitin:   1

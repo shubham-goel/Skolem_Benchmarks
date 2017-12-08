@@ -1,0 +1,48 @@
+BaseName:     small-bug1-fixpoint-3
+numVars:       53
+NumClauses:   120
+varsX.size(): 11
+varsY.size(): 41
+maxVar:       52
+Setting numVars = 52
+Finished readQdimacsFile
+Finished findLitToProp
+Finished propagateLiteral
+DEP52 = AND(41, 51)
+DEP51 = OR(44, 47, 50)
+DEP50 = AND(-48, -49)
+DEP47 = AND(-45, -46)
+DEP44 = AND(-42, -43)
+DEP41 = AND(-12, -13, -14, -36, -40)
+DEP39 = OR(19, 38)
+DEP38 = AND(-19, 37)
+DEP37 = AND(-13, 15)
+DEP35 = OR(16, 34)
+DEP34 = AND(-16, 33)
+DEP33 = AND(-12, 17)
+DEP32 = AND(-1, -2, -3, -4, -23, -27, -31)
+DEP30 = OR(11, 29)
+DEP29 = AND(-11, 28)
+DEP28 = AND(-3, 8)
+DEP26 = OR(9, 25)
+DEP25 = AND(-9, 24)
+DEP24 = AND(-2, 5)
+DEP22 = OR(6, 21)
+DEP21 = AND(-6, 20)
+DEP20 = AND(-1, 7)
+DEP49 = XOR(18, 10)
+DEP48 = XOR(14, 4)
+DEP46 = XOR(15, 10)
+DEP45 = XOR(13, 4)
+DEP43 = XOR(17, 10)
+DEP42 = XOR(12, 4)
+DEP40 = XOR(39, 18)
+DEP36 = XOR(35, 15)
+DEP31 = XOR(30, 10)
+DEP27 = XOR(26, 8)
+DEP23 = XOR(22, 5)
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 0
+numNonTseitin:   1

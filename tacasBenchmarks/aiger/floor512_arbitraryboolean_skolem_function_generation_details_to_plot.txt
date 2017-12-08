@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/floor512.aig	prolient	arbitrary_boolean_combinations	7155	511	1535	externally-supplied	3581.082275	7151	11	1796.178101	3605	11	0.000000	0	0	3070	5109	4088	1535	2099205	13	10084	272356	18326	218804	25633

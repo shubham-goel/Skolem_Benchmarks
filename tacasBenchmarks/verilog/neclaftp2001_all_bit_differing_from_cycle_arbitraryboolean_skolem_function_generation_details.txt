@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/neclaftp2001_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 33459
+|X| = 32
+|X+Y| = 4898
+
+
+
+number of cegarskolem calls = 4493
+number of monoskolem calls = 9763
+number of find_skolem_disjunction calls = 23210
+number of find_skolem_conjunction calls = 21281
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 3429 millisecond
+
+total-time-without-size-computation-time = 2069788 milliseconds
+
+time in monoskolem calls = 2785
+time in find_skolem_disjunction calls = 7865
+time in find_skolem_conjunction calls = 42923
+
+total time in true sat calls inside cegar = 0
+total time in false sat calls inside cegar = 134
+total time in sat calls inside cegar = 134
+total time in simulation to replace sat inside cegar in milking counterexamples = 0
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 33303, 31462, 30773, 30398, 30335, 30309, 30133, 30126, 29690, 27581, 27589, 27571, 27582, 27593, 27604, 27615, 27605, 27431, 27434, 27439, 27447, 27450, 27440, 27451, 27459, 27462, 27474, 27485, 27496, 27504, 27507, 27518, 
+
+skolem-function-sizes-after-reverse-substitution = 45670, 43179, 41878, 41045, 40626, 40150, 39542, 39141, 38080, 35550, 35171, 34790, 34462, 34127, 33806, 33456, 33047, 32489, 32100, 31711, 31384, 31013, 30652, 30312, 29960, 29591, 29224, 28891, 28551, 28191, 27837, 27518, 

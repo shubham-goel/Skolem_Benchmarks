@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobtuint09neg_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	2466	203	415	externally-supplied	

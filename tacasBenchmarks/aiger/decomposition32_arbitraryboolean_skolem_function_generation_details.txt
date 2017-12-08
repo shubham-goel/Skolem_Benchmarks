@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/decomposition32.aig
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 442
+|X| = 64
+|X+Y| = 96
+
+
+
+number of cegarskolem calls = 314
+number of monoskolem calls = 192
+number of find_skolem_disjunction calls = 251
+number of find_skolem_conjunction calls = 314
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 74 millisecond
+
+total-time-without-size-computation-time = 9279 milliseconds
+
+time in monoskolem calls = 84
+time in find_skolem_disjunction calls = 149
+time in find_skolem_conjunction calls = 6532
+
+total time in true sat calls inside cegar = 19
+total time in false sat calls inside cegar = 129
+total time in sat calls inside cegar = 148
+total time in simulation to replace sat inside cegar in milking counterexamples = 77
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 438, 428, 424, 414, 410, 400, 396, 386, 382, 372, 368, 358, 354, 344, 340, 330, 326, 316, 312, 302, 298, 288, 284, 274, 270, 260, 256, 246, 242, 232, 228, 218, 214, 204, 200, 190, 186, 176, 172, 162, 158, 148, 144, 134, 130, 120, 116, 106, 102, 92, 88, 78, 74, 64, 60, 50, 46, 36, 32, 22, 18, 9, 5, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 572, 562, 552, 543, 533, 524, 514, 505, 495, 486, 476, 467, 457, 448, 438, 429, 419, 410, 400, 391, 381, 372, 362, 353, 343, 334, 324, 315, 305, 296, 286, 277, 267, 258, 248, 239, 229, 220, 210, 201, 191, 182, 172, 163, 153, 144, 134, 125, 115, 106, 96, 87, 77, 68, 58, 49, 39, 30, 20, 11, 5, 1, 1, 1, 

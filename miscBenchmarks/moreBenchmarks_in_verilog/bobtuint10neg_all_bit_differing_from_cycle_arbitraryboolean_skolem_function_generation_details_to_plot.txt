@@ -1,0 +1,4 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobtuint10neg_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	2903	205	417	externally-supplied	2236.765869	2900	1	6552.053711	11597	1	0.037037	4	0	833	1974	2097	1269	254256	9	1470	24202	4842	12193	14848
+
+generated	/home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobtuint10neg_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	2903	205	417	externally-supplied	2236.765869	2900	1	6552.053711	11597	1	0.037037	4	0	833	1974	2097	1269	100418	8	795	13403	2531	6597	11740

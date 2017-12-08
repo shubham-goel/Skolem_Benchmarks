@@ -1,0 +1,15 @@
+BaseName:     nreachq_query11_1344n
+numVars:       4725
+NumClauses:   39770
+varsX.size(): 168
+varsY.size(): 4557
+maxVar:       4725
+Finished readQdimacsFile
+DEPConst -4725
+Finished findLitToProp
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 1
+numNonTseitin:   39769

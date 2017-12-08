@@ -1,0 +1,41 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/decomposition512.aig
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 7162
+|X| = 1024
+|X+Y| = 1536
+
+Time-out inside the function AIGBasedSkolem::factorizedSkolemFunctionGenerator
+
+Time-out inside the function AIGBasedSkolem::Skolem
+
+
+
+number of cegarskolem calls = 2908
+number of monoskolem calls = 2225
+number of find_skolem_disjunction calls = 2819
+number of find_skolem_conjunction calls = 2908
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 0 millisecond
+
+total-time-without-size-computation-time = 3600000 milliseconds
+
+time in monoskolem calls = 16566
+time in find_skolem_disjunction calls = 28496
+time in find_skolem_conjunction calls = 774438
+
+total time in true sat calls inside cegar = 4984
+total time in false sat calls inside cegar = 3360
+total time in sat calls inside cegar = 8344
+total time in simulation to replace sat inside cegar in milking counterexamples = 8559
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 
+
+skolem-function-sizes-after-reverse-substitution = 

@@ -1,0 +1,17 @@
+BaseName:     query34_query11_1344n
+numVars:       875
+NumClauses:   1915
+varsX.size(): 66
+varsY.size(): 809
+maxVar:       875
+Finished readQdimacsFile
+DEPConst -875
+Finished findLitToProp
+DEPConst -478
+DEPConst -874
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 3
+numNonTseitin:   1912

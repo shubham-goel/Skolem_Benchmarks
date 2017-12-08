@@ -1,0 +1,17 @@
+BaseName:     nxquery_query50_1344n
+numVars:       295
+NumClauses:   825
+varsX.size(): 54
+varsY.size(): 241
+maxVar:       295
+Finished readQdimacsFile
+DEPConst -295
+Finished findLitToProp
+DEPConst -176
+DEPConst -294
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 3
+numNonTseitin:   822

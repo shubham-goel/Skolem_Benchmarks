@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/eijkbs4863_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 3854
+|X| = 49
+|X+Y| = 305
+
+
+
+number of cegarskolem calls = 2793
+number of monoskolem calls = 610
+number of find_skolem_disjunction calls = 3226
+number of find_skolem_conjunction calls = 2889
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 340 millisecond
+
+total-time-without-size-computation-time = 440624 milliseconds
+
+time in monoskolem calls = 224
+time in find_skolem_disjunction calls = 1663
+time in find_skolem_conjunction calls = 347250
+
+total time in true sat calls inside cegar = 53184
+total time in false sat calls inside cegar = 222100
+total time in sat calls inside cegar = 275284
+total time in simulation to replace sat inside cegar in milking counterexamples = 22392
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 3852, 3850, 3848, 3845, 3843, 3841, 3837, 3835, 3833, 3841, 3851, 3858, 3865, 3872, 3840, 3874, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 4524, 4456, 4387, 4326, 4251, 4176, 4087, 4029, 3894, 3735, 3596, 3448, 3304, 3162, 2961, 2761, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 

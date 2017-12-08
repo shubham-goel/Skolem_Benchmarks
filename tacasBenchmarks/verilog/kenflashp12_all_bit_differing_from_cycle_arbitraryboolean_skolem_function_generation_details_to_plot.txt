@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/kenflashp12_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	848	42	86	externally-supplied	21.071428	844	1	13.833333	540	1	0.013233	3	0	172	688	723	529	10118	9	49	5336	322	2891	4

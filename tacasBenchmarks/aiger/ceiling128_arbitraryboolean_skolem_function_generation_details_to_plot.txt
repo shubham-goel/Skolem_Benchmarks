@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/aiger/ceiling128.aig	prolient	arbitrary_boolean_combinations	2414	127	383	externally-supplied	1213.228394	2409	16	1524.377930	3043	16	0.000000	0	0	766	1902	1527	891	92101	9	577	27775	1682	20617	1037

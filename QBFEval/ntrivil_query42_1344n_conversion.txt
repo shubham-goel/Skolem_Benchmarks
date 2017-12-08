@@ -1,0 +1,15 @@
+BaseName:     ntrivil_query42_1344n
+numVars:       2021
+NumClauses:   6920
+varsX.size(): 82
+varsY.size(): 1939
+maxVar:       2021
+Finished readQdimacsFile
+DEPConst -2021
+Finished findLitToProp
+Finished propagateLiteral
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 1
+numNonTseitin:   6919

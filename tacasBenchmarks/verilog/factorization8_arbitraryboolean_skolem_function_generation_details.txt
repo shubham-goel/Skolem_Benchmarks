@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/factorization8.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 138
+|X| = 8
+|X+Y| = 16
+
+
+
+number of cegarskolem calls = 105
+number of monoskolem calls = 32
+number of find_skolem_disjunction calls = 99
+number of find_skolem_conjunction calls = 105
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 10 millisecond
+
+total-time-without-size-computation-time = 5204 milliseconds
+
+time in monoskolem calls = 0
+time in find_skolem_disjunction calls = 9
+time in find_skolem_conjunction calls = 4671
+
+total time in true sat calls inside cegar = 308
+total time in false sat calls inside cegar = 221
+total time in sat calls inside cegar = 529
+total time in simulation to replace sat inside cegar in milking counterexamples = 480
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 129, 199, 372, 570, 711, 1019, 803, 814, 
+
+skolem-function-sizes-after-reverse-substitution = 4396, 4320, 4160, 3820, 3271, 2580, 1583, 814, 

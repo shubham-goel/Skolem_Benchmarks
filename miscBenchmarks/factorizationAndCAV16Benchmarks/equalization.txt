@@ -1,0 +1,4 @@
+equalization32.aig
+equalization128.aig
+equalization512.aig
+

@@ -1,0 +1,2 @@
+
+generated	/home/shetals/TACAS2018/Benchmarks/tacasBenchmarks/verilog/bobsmfpu_all_bit_differing_from_cycle.v	prolient	arbitrary_boolean_combinations	35653	117	1023	externally-supplied	-	-	-	-	-	-	-nan	-1	-1	430	19065	19128	0	>3600000	-	-	-	-	-	-

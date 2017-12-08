@@ -1,0 +1,78 @@
+BaseName:     small-dyn-partition-fixpoint-1
+numVars:       88
+NumClauses:   221
+varsX.size(): 16
+varsY.size(): 71
+maxVar:       87
+Setting numVars = 87
+Finished readQdimacsFile
+Finished findLitToProp
+Finished propagateLiteral
+DEP87 = AND(75, 86)
+DEP86 = AND(-84, -85, 79, 83)
+DEP83 = AND(-80, -81, -82)
+DEP79 = AND(-76, -77, -78)
+DEP75 = AND(-23, -24, 73, 74)
+DEP74 = AND(-20, -21, -22)
+DEP73 = AND(-17, -18, -19)
+DEP72 = AND(27, 71)
+DEP71 = AND(-69, -70, 48, 68)
+DEP68 = AND(-65, -66, -67)
+DEP64 = OR(62, 63)
+DEP63 = AND(28, 53)
+DEP62 = AND(-28, 6)
+DEP61 = OR(59, 60)
+DEP60 = AND(28, 50)
+DEP59 = AND(-28, 5)
+DEP58 = OR(56, 57)
+DEP57 = AND(-4, 28)
+DEP56 = AND(-28, 4)
+DEP55 = AND(54)
+DEP54 = AND(6, 52)
+DEP52 = AND(51)
+DEP51 = AND(5, 49)
+DEP49 = AND(4)
+DEP48 = AND(-45, -46, -47)
+DEP44 = OR(42, 43)
+DEP43 = AND(28, 3)
+DEP42 = AND(-28, 33)
+DEP41 = OR(39, 40)
+DEP40 = AND(28, 2)
+DEP39 = AND(-28, 30)
+DEP38 = OR(36, 37)
+DEP37 = AND(28, 1)
+DEP36 = AND(-28, -1)
+DEP35 = AND(34)
+DEP34 = AND(3, 32)
+DEP32 = AND(31)
+DEP31 = AND(2, 29)
+DEP29 = AND(1)
+DEP27 = AND(-7, -8, 25, 26)
+DEP26 = AND(-4, -5, -6)
+DEP25 = AND(-1, -2, -3)
+DEP85 = XOR(24, 16)
+DEP84 = XOR(23, 15)
+DEP82 = XOR(22, 14)
+DEP81 = XOR(21, 13)
+DEP80 = XOR(20, 12)
+DEP78 = XOR(19, 11)
+DEP77 = XOR(18, 10)
+DEP76 = XOR(17, 9)
+DEP70 = XOR(7, 16)
+DEP69 = XOR(-15, 8)
+DEP67 = XOR(64, 14)
+DEP66 = XOR(61, 13)
+DEP65 = XOR(58, 12)
+DEP53 = XOR(52, 6)
+DEP50 = XOR(49, 5)
+DEP47 = XOR(44, 11)
+DEP46 = XOR(41, 10)
+DEP45 = XOR(38, 9)
+DEP33 = XOR(32, 3)
+DEP30 = XOR(29, 2)
+DEP28 = XOR(8, 7)
+Finished findDependencies
+Finished checkForCycles
+Finished reduceDependencySizes
+depCONST.size(): 0
+numNonTseitin:   1

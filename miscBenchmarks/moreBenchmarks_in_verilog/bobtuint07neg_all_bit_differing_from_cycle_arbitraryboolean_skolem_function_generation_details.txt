@@ -1,0 +1,37 @@
+
+
+
+
+benchmark type = generated
+benchmark name = /home/shetals/TACAS2018/Benchmarks/miscBenchmarks/moreBenchmarks_in_verilog/bobtuint07neg_all_bit_differing_from_cycle.v
+problem = variable_elimination
+machine = prolient
+
+size of F(X,Y) = 2983
+|X| = 205
+|X+Y| = 417
+
+
+
+number of cegarskolem calls = 1296
+number of monoskolem calls = 833
+number of find_skolem_disjunction calls = 2221
+number of find_skolem_conjunction calls = 2019
+ordering-used = externally-supplied
+total-time-in-reverse-substitution-without-size-computation-time = 11560 millisecond
+
+total-time-without-size-computation-time = 268181 milliseconds
+
+time in monoskolem calls = 1383
+time in find_skolem_disjunction calls = 4849
+time in find_skolem_conjunction calls = 25448
+
+total time in true sat calls inside cegar = 10
+total time in false sat calls inside cegar = 427
+total time in sat calls inside cegar = 437
+total time in simulation to replace sat inside cegar in milking counterexamples = 66
+total time in simulation to replace sat inside cegar by making use of functional form = 0
+
+skolem-function-sizes-before-reverse-substitution = 2980, 2979, 2976, 2974, 2973, 2970, 2969, 2968, 2969, 2968, 2968, 2967, 2959, 2958, 2959, 2959, 2955, 2952, 2952, 2953, 2951, 2949, 2947, 2944, 2941, 2936, 2937, 2930, 2939, 2934, 2930, 2926, 2927, 2922, 2917, 2917, 2916, 2915, 2911, 2905, 2899, 2896, 2883, 2869, 2875, 2874, 2872, 2869, 2865, 2861, 2860, 2862, 2861, 2872, 2868, 2865, 2871, 2870, 2864, 2862, 2862, 2880, 2855, 2854, 2848, 2843, 2847, 2847, 2844, 2849, 2843, 2841, 2841, 2837, 2831, 2825, 2819, 2817, 2812, 2812, 2812, 2812, 2809, 2769, 2769, 2724, 2721, 2722, 2720, 2715, 2707, 2705, 2700, 2694, 2689, 2692, 2692, 2692, 2692, 2682, 2687, 2687, 2685, 2685, 2683, 2687, 2684, 2682, 2682, 2667, 2684, 2686, 2681, 2676, 2663, 2658, 2655, 2652, 2632, 2634, 2626, 2618, 2610, 2618, 2597, 2623, 2577, 2594, 2606, 2572, 2527, 2573, 2578, 2579, 2588, 2559, 2574, 2567, 2543, 2541, 2542, 2573, 2573, 2535, 2530, 2543, 2509, 2402, 2402, 2372, 2397, 2487, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+
+skolem-function-sizes-after-reverse-substitution = 10666, 10657, 10646, 10635, 10616, 10593, 10573, 10546, 10522, 10491, 10458, 10437, 10399, 10365, 10333, 10301, 10269, 10233, 10196, 10169, 10139, 10111, 10082, 10051, 10012, 9973, 9938, 9900, 9862, 9829, 9801, 9762, 9728, 9696, 9660, 9625, 9588, 9552, 9514, 9476, 9439, 9399, 9353, 9299, 9264, 9221, 9177, 9134, 9082, 9040, 8987, 8937, 8876, 8828, 8793, 8754, 8708, 8661, 8627, 8597, 8597, 8560, 8457, 8410, 8372, 8302, 8280, 8280, 8241, 8191, 8157, 8127, 8127, 8088, 8048, 8010, 7972, 7946, 7938, 7938, 7938, 7938, 7897, 7781, 7723, 7600, 7536, 7462, 7405, 7331, 7282, 7242, 7202, 7164, 7103, 7073, 7073, 7073, 7073, 7029, 7016, 7016, 6962, 6943, 6890, 6868, 6810, 6735, 6661, 6578, 6504, 6402, 6359, 6322, 6266, 6206, 6180, 6095, 6003, 5962, 5907, 5814, 5671, 5538, 5415, 5289, 5129, 5140, 5045, 4935, 4826, 4666, 4501, 4400, 4228, 3989, 3815, 3712, 3605, 3505, 3397, 3202, 3035, 2907, 2775, 2497, 2254, 2324, 2324, 2251, 2191, 2075, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
